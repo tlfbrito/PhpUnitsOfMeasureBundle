@@ -1,0 +1,5 @@
+services:
+    triplepoint.twig.php_units_of_measure_extension:
+            class: Triplepoint\PhpUnitsOfMeasureBundle\Twig\TwigExtension
+            tags:
+                - { name: twig.extension }
