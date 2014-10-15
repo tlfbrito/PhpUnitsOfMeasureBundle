@@ -17,6 +17,5 @@
     },
     "autoload": {
         "psr-0": { "Triplepoint\\PHPUnitsOfMeasureBundle\\": "" }
-    },
-    "target-dir": "Triplepoint/PHPUnitsOfMeasureBundle"
+    }
 }
