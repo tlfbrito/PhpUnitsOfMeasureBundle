@@ -1,5 +1,5 @@
 {
-    "name": "triplepoint/PHPUnitsOfMeasureBundle",
+    "name": "triplepoint/php-units-of-measure-bundle",
     "type": "symfony-bundle",
     "description": "Symfony PHPUnitsOfMeasureBundle",
     "keywords": ["measure", "units", "convert"],
