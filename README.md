@@ -1,7 +1,7 @@
 PHPUnitsOfMeasureBundle
 =======================
 
-The `PHPUnitsOfMeasureBundle` provides integration of the [php-units-of-measure](https://github.com/triplepoint/php-units-of-measure) library into the Symfony2 framework.
+The `PhpUnitsOfMeasureBundle` provides integration of the [php-units-of-measure](https://github.com/triplepoint/php-units-of-measure) library into the Symfony2 framework.
 
 
 ## Features:
@@ -22,7 +22,7 @@ The `PHPUnitsOfMeasureBundle` provides integration of the [php-units-of-measure]
 
 ## Installation and configuration:
 
-### Add PHPUnitsOfMeasureBundle to your application kernel
+### Add PhpUnitsOfMeasureBundle to your application kernel
 
 ``` php
 <?php
@@ -32,7 +32,7 @@ The `PHPUnitsOfMeasureBundle` provides integration of the [php-units-of-measure]
     {
         return array(
             // ...
-            new Triplepoint\PHPUnitsOfMeasureBundle\PHPUnitsOfMeasureBundle(),
+            new Triplepoint\PhpUnitsOfMeasureBundle\TriplepointPhpUnitsOfMeasureBundle(),
             // ...
         );
     }
