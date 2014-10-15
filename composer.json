@@ -1,0 +1,22 @@
+{
+    "name": "triplepoint/PHPUnitsOfMeasureBundle",
+    "type": "symfony-bundle",
+    "description": "Symfony PHPUnitsOfMeasureBundle",
+    "keywords": ["measure", "units", "convert"],
+    "homepage": "https://github.com/tiagobrito/PHPUnitsOfMeasureBundle",
+    "authors": [
+        {
+            "name": "Tiago Brito",
+            "email": "tlfbrito@gmail.com"
+        }
+    ],
+    "require": {
+        "php": ">=5.3.2",
+        "symfony/framework-bundle": "2.*",
+        "triplepoint/php-units-of-measure": "1.3.1"
+    },
+    "autoload": {
+        "psr-0": { "Triplepoint\\PHPUnitsOfMeasureBundle\\": "" }
+    },
+    "target-dir": "Triplepoint/PHPUnitsOfMeasureBundle"
+}
