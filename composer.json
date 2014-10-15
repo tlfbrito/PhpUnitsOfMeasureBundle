@@ -1,9 +1,9 @@
 {
     "name": "triplepoint/php-units-of-measure-bundle",
     "type": "symfony-bundle",
-    "description": "Symfony PHPUnitsOfMeasureBundle",
+    "description": "Symfony PhpUnitsOfMeasureBundle",
     "keywords": ["measure", "units", "convert"],
-    "homepage": "https://github.com/tiagobrito/PHPUnitsOfMeasureBundle",
+    "homepage": "https://github.com/tiagobrito/PhpUnitsOfMeasureBundle",
     "authors": [
         {
             "name": "Tiago Brito",
